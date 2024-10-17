@@ -1,4 +1,4 @@
-package com.sendil.cosmiccalenderkeeper.ui.theme
+package com.sendil.cosmiccalenderkeeper.theme
 
 import androidx.compose.ui.graphics.Color
 

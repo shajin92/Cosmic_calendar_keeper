@@ -1,4 +1,4 @@
-package com.sendil.cosmiccalenderkeeper.ui.theme
+package com.sendil.cosmiccalenderkeeper.theme
 
 import android.app.Activity
 import android.os.Build
@@ -9,28 +9,23 @@ import androidx.compose.material3.dynamicDarkColorScheme
 import androidx.compose.material3.dynamicLightColorScheme
 import androidx.compose.material3.lightColorScheme
 import androidx.compose.runtime.Composable
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.platform.LocalContext
 
 private val DarkColorScheme = darkColorScheme(
     primary = Purple80,
     secondary = PurpleGrey80,
-    tertiary = Pink80
+    tertiary = Color(0xFFc4b5fd),
+    onSecondary = Color(0xFF0B0A13),
+    inversePrimary = Color(0xFFddd6fe)
 )
 
 private val LightColorScheme = lightColorScheme(
     primary = Purple40,
     secondary = PurpleGrey40,
-    tertiary = Pink40
-
-    /* Other default colors to override
-    background = Color(0xFFFFFBFE),
-    surface = Color(0xFFFFFBFE),
-    onPrimary = Color.White,
-    onSecondary = Color.White,
-    onTertiary = Color.White,
-    onBackground = Color(0xFF1C1B1F),
-    onSurface = Color(0xFF1C1B1F),
-    */
+    onSecondary = Color(0xFF0B0A13),
+    tertiary = Color(0xFF0B0A13),
+    inversePrimary = Color(0xFF484852)
 )
 
 @Composable

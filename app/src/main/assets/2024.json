@@ -1,0 +1,801 @@
+[
+  {
+    "date": "3",
+    "title": "Earth at perihelion",
+    "type": "planet",
+    "month": "January"
+  },
+  {
+    "date": "4",
+    "title": "Moon at Last Quarter",
+    "type": "moon",
+    "month": "January"
+  },
+  {
+    "date": "4",
+    "title": "Quadrantid meteor shower",
+    "type": "meteor",
+    "month": "January"
+  },
+  {
+    "date": "7",
+    "title": "Mercury at dichotomy",
+    "type": "planet",
+    "month": "January"
+  },
+  {
+    "date": "9",
+    "title": "Conjunction of the Moon and Venus",
+    "type": "moon",
+    "month": "January"
+  },
+  {
+    "date": "10",
+    "title": "Mercury at highest altitude in morning sky",
+    "type": "planet",
+    "month": "January"
+  },
+  {
+    "date": "11",
+    "title": "New Moon",
+    "type": "moon",
+    "month": "January"
+  },
+  {
+    "date": "13",
+    "title": "Mercury at greatest elongation west",
+    "type": "planet",
+    "month": "January"
+  },
+  {
+    "date": "14",
+    "title": "Conjunction of the Moon and Saturn",
+    "type": "moon",
+    "month": "January"
+  },
+  {
+    "date": "17",
+    "title": "The cluster NGC 2451 is well placed",
+    "type": "other",
+    "month": "January"
+  },
+  {
+    "date": "18",
+    "title": "Moon at First Quarter",
+    "type": "moon",
+    "month": "January"
+  },
+  {
+    "date": "19",
+    "title": "Conjunction of the Moon and Jupiter",
+    "type": "moon",
+    "month": "January"
+  },
+  {
+    "date": "19",
+    "title": "γ-Ursae Minorid meteor shower",
+    "type": "meteor",
+    "month": "January"
+  },
+  {
+    "date": "20",
+    "title": "Close approach of the Moon and M45",
+    "type": "moon",
+    "month": "January"
+  },
+  {
+    "date": "25",
+    "title": "Full Moon",
+    "type": "moon",
+    "month": "January"
+  },
+  {
+    "date": "31",
+    "title": "The Omicron Velorum cluster is well placed",
+    "type": "other",
+    "month": "January"
+  },
+  {
+    "date": "3",
+    "title": "Moon at Last Quarter",
+    "type": "moon",
+    "month": "February"
+  },
+  {
+    "date": "8",
+    "title": "Conjunction of the Moon and Venus",
+    "type": "moon",
+    "month": "February"
+  },
+  {
+    "date": "8",
+    "title": "α-Centaurid meteor shower",
+    "type": "meteor",
+    "month": "February"
+  },
+  {
+    "date": "10",
+    "title": "New Moon",
+    "type": "moon",
+    "month": "February"
+  },
+  {
+    "date": "15",
+    "title": "Conjunction of the Moon and Jupiter",
+    "type": "moon",
+    "month": "February"
+  },
+  {
+    "date": "16",
+    "title": "Moon at First Quarter",
+    "type": "moon",
+    "month": "February"
+  },
+  {
+    "date": "17",
+    "title": "Close approach of the Moon and M45",
+    "type": "moon",
+    "month": "February"
+  },
+  {
+    "date": "24",
+    "title": "Full Moon",
+    "type": "moon",
+    "month": "February"
+  },
+  {
+    "date": "3",
+    "title": "Moon at Last Quarter",
+    "type": "moon",
+    "month": "March"
+  },
+  {
+    "date": "10",
+    "title": "New Moon",
+    "type": "moon",
+    "month": "March"
+  },
+  {
+    "date": "14",
+    "title": "Conjunction of the Moon and Jupiter",
+    "type": "moon",
+    "month": "March"
+  },
+  {
+    "date": "14",
+    "title": "γ-Normid meteor shower",
+    "type": "meteor",
+    "month": "March"
+  },
+  {
+    "date": "15",
+    "title": "Close approach of the Moon and M45",
+    "type": "moon",
+    "month": "March"
+  },
+  {
+    "date": "17",
+    "title": "Moon at First Quarter",
+    "type": "moon",
+    "month": "March"
+  },
+  {
+    "date": "20",
+    "title": "March equinox",
+    "type": "other",
+    "month": "March"
+  },
+  {
+    "date": "23",
+    "title": "Mercury at dichotomy",
+    "type": "planet",
+    "month": "March"
+  },
+  {
+    "date": "24",
+    "title": "Mercury at highest altitude in evening sky",
+    "type": "planet",
+    "month": "March"
+  },
+  {
+    "date": "24",
+    "title": "Mercury at greatest elongation east",
+    "type": "planet",
+    "month": "March"
+  },
+  {
+    "date": "25",
+    "title": "Full Moon",
+    "type": "moon",
+    "month": "March"
+  },
+  {
+    "date": "25",
+    "title": "Penumbral lunar eclipse",
+    "type": "moon",
+    "month": "March"
+  },
+  {
+    "date": "2",
+    "title": "Moon at Last Quarter",
+    "type": "moon",
+    "month": "April"
+  },
+  {
+    "date": "6",
+    "title": "Conjunction of the Moon and Mars",
+    "type": "moon",
+    "month": "April"
+  },
+  {
+    "date": "8",
+    "title": "Total solar eclipse",
+    "type": "other",
+    "month": "April"
+  },
+  {
+    "date": "8",
+    "title": "New Moon",
+    "type": "moon",
+    "month": "April"
+  },
+  {
+    "date": "11",
+    "title": "Conjunction of Saturn and Mars",
+    "type": "planet",
+    "month": "April"
+  },
+  {
+    "date": "11",
+    "title": "Conjunction of the Moon and Jupiter",
+    "type": "moon",
+    "month": "April"
+  },
+  {
+    "date": "16",
+    "title": "Moon at First Quarter",
+    "type": "moon",
+    "month": "April"
+  },
+  {
+    "date": "21",
+    "title": "Comet 12P/Pons-Brooks reaches peak brightness",
+    "type": "other",
+    "month": "April"
+  },
+  {
+    "date": "22",
+    "title": "Lyrid meteor shower",
+    "type": "meteor",
+    "month": "April"
+  },
+  {
+    "date": "23",
+    "title": "π-Puppid meteor shower",
+    "type": "meteor",
+    "month": "April"
+  },
+  {
+    "date": "24",
+    "title": "Full Moon",
+    "type": "moon",
+    "month": "April"
+  },
+  {
+    "date": "1",
+    "title": "Moon at Last Quarter",
+    "type": "moon",
+    "month": "May"
+  },
+  {
+    "date": "4",
+    "title": "Conjunction of the Moon and Saturn",
+    "type": "moon",
+    "month": "May"
+  },
+  {
+    "date": "5",
+    "title": "Conjunction of the Moon and Mars",
+    "type": "moon",
+    "month": "May"
+  },
+  {
+    "date": "5",
+    "title": "η-Aquariid meteor shower",
+    "type": "meteor",
+    "month": "May"
+  },
+  {
+    "date": "8",
+    "title": "η-Lyrid meteor shower",
+    "type": "meteor",
+    "month": "May"
+  },
+  {
+    "date": "8",
+    "title": "New Moon",
+    "type": "moon",
+    "month": "May"
+  },
+  {
+    "date": "10",
+    "title": "Mercury at greatest elongation west",
+    "type": "planet",
+    "month": "May"
+  },
+  {
+    "date": "11",
+    "title": "Mercury at highest altitude in morning sky",
+    "type": "planet",
+    "month": "May"
+  },
+  {
+    "date": "11",
+    "title": "Conjunction of the Moon and Jupiter",
+    "type": "moon",
+    "month": "May"
+  },
+  {
+    "date": "15",
+    "title": "Close approach of the Moon and M45",
+    "type": "moon",
+    "month": "May"
+  },
+  {
+    "date": "16",
+    "title": "Moon at First Quarter",
+    "type": "moon",
+    "month": "May"
+  },
+  {
+    "date": "23",
+    "title": "Full Moon",
+    "type": "moon",
+    "month": "May"
+  },
+  {
+    "date": "29",
+    "title": "Mercury at dichotomy",
+    "type": "planet",
+    "month": "May"
+  },
+  {
+    "date": "1",
+    "title": "Moon at Last Quarter",
+    "type": "moon",
+    "month": "June"
+  },
+  {
+    "date": "3",
+    "title": "Mercury at greatest elongation east",
+    "type": "planet",
+    "month": "June"
+  },
+  {
+    "date": "5",
+    "title": "Mercury at highest altitude in evening sky",
+    "type": "planet",
+    "month": "June"
+  },
+  {
+    "date": "7",
+    "title": "New Moon",
+    "type": "moon",
+    "month": "June"
+  },
+  {
+    "date": "9",
+    "title": "Conjunction of the Moon and Mars",
+    "type": "moon",
+    "month": "June"
+  },
+  {
+    "date": "9",
+    "title": "Conjunction of the Moon and Saturn",
+    "type": "moon",
+    "month": "June"
+  },
+  {
+    "date": "11",
+    "title": "Conjunction of the Moon and Jupiter",
+    "type": "moon",
+    "month": "June"
+  },
+  {
+    "date": "14",
+    "title": "Moon at First Quarter",
+    "type": "moon",
+    "month": "June"
+  },
+  {
+    "date": "19",
+    "title": "Close approach of the Moon and M45",
+    "type": "moon",
+    "month": "June"
+  },
+  {
+    "date": "21",
+    "title": "June solstice",
+    "type": "other",
+    "month": "June"
+  },
+  {
+    "date": "22",
+    "title": "Full Moon",
+    "type": "moon",
+    "month": "June"
+  },
+  {
+    "date": "1",
+    "title": "Moon at Last Quarter",
+    "type": "moon",
+    "month": "July"
+  },
+  {
+    "date": "7",
+    "title": "New Moon",
+    "type": "moon",
+    "month": "July"
+  },
+  {
+    "date": "8",
+    "title": "Conjunction of the Moon and Saturn",
+    "type": "moon",
+    "month": "July"
+  },
+  {
+    "date": "9",
+    "title": "Conjunction of the Moon and Mars",
+    "type": "moon",
+    "month": "July"
+  },
+  {
+    "date": "10",
+    "title": "Conjunction of the Moon and Jupiter",
+    "type": "moon",
+    "month": "July"
+  },
+  {
+    "date": "15",
+    "title": "Moon at First Quarter",
+    "type": "moon",
+    "month": "July"
+  },
+  {
+    "date": "18",
+    "title": "Mercury at dichotomy",
+    "type": "planet",
+    "month": "July"
+  },
+  {
+    "date": "19",
+    "title": "Conjunction of the Moon and Venus",
+    "type": "moon",
+    "month": "July"
+  },
+  {
+    "date": "21",
+    "title": "Close approach of the Moon and M45",
+    "type": "moon",
+    "month": "July"
+  },
+  {
+    "date": "21",
+    "title": "Full Moon",
+    "type": "moon",
+    "month": "July"
+  },
+  {
+    "date": "1",
+    "title": "Moon at Last Quarter",
+    "type": "moon",
+    "month": "August"
+  },
+  {
+    "date": "5",
+    "title": "New Moon",
+    "type": "moon",
+    "month": "August"
+  },
+  {
+    "date": "8",
+    "title": "Conjunction of the Moon and Jupiter",
+    "type": "moon",
+    "month": "August"
+  },
+  {
+    "date": "10",
+    "title": "Mercury at highest altitude in evening sky",
+    "type": "planet",
+    "month": "August"
+  },
+  {
+    "date": "11",
+    "title": "Perseid meteor shower",
+    "type": "meteor",
+    "month": "August"
+  },
+  {
+    "date": "12",
+    "title": "Moon at First Quarter",
+    "type": "moon",
+    "month": "August"
+  },
+  {
+    "date": "13",
+    "title": "Close approach of the Moon and M45",
+    "type": "moon",
+    "month": "August"
+  },
+  {
+    "date": "20",
+    "title": "Full Moon",
+    "type": "moon",
+    "month": "August"
+  },
+  {
+    "date": "27",
+    "title": "Close approach of the Moon and Jupiter",
+    "type": "moon",
+    "month": "August"
+  },
+  {
+    "date": "29",
+    "title": "Moon at Last Quarter",
+    "type": "moon",
+    "month": "August"
+  },
+  {
+    "date": "3",
+    "title": "New Moon",
+    "type": "moon",
+    "month": "September"
+  },
+  {
+    "date": "4",
+    "title": "Conjunction of the Moon and Jupiter",
+    "type": "moon",
+    "month": "September"
+  },
+  {
+    "date": "6",
+    "title": "Conjunction of the Moon and Saturn",
+    "type": "moon",
+    "month": "September"
+  },
+  {
+    "date": "9",
+    "title": "Moon at First Quarter",
+    "type": "moon",
+    "month": "September"
+  },
+  {
+    "date": "13",
+    "title": "Conjunction of the Moon and Mars",
+    "type": "moon",
+    "month": "September"
+  },
+  {
+    "date": "18",
+    "title": "Full Moon",
+    "type": "moon",
+    "month": "September"
+  },
+  {
+    "date": "18",
+    "title": "Penumbral lunar eclipse",
+    "type": "moon",
+    "month": "September"
+  },
+  {
+    "date": "25",
+    "title": "Close approach of the Moon and M45",
+    "type": "moon",
+    "month": "September"
+  },
+  {
+    "date": "26",
+    "title": "Moon at Last Quarter",
+    "type": "moon",
+    "month": "September"
+  },
+  {
+    "date": "28",
+    "title": "Conjunction of the Moon and Venus",
+    "type": "moon",
+    "month": "September"
+  },
+  {
+    "date": "3",
+    "title": "New Moon",
+    "type": "moon",
+    "month": "October"
+  },
+  {
+    "date": "3",
+    "title": "Draconid meteor shower",
+    "type": "meteor",
+    "month": "October"
+  },
+  {
+    "date": "6",
+    "title": "Conjunction of the Moon and Jupiter",
+    "type": "moon",
+    "month": "October"
+  },
+  {
+    "date": "9",
+    "title": "Moon at First Quarter",
+    "type": "moon",
+    "month": "October"
+  },
+  {
+    "date": "13",
+    "title": "Close approach of the Moon and M45",
+    "type": "moon",
+    "month": "October"
+  },
+  {
+    "date": "18",
+    "title": "Full Moon",
+    "type": "moon",
+    "month": "October"
+  },
+  {
+    "date": "21",
+    "title": "Orionid meteor shower",
+    "type": "meteor",
+    "month": "October"
+  },
+  {
+    "date": "23",
+    "title": "Partial lunar eclipse",
+    "type": "moon",
+    "month": "October"
+  },
+  {
+    "date": "25",
+    "title": "Moon at Last Quarter",
+    "type": "moon",
+    "month": "October"
+  },
+  {
+    "date": "27",
+    "title": "Close approach of the Moon and Jupiter",
+    "type": "moon",
+    "month": "October"
+  },
+  {
+    "date": "31",
+    "title": "Conjunction of the Moon and Saturn",
+    "type": "moon",
+    "month": "October"
+  },
+  {
+    "date": "1",
+    "title": "New Moon",
+    "type": "moon",
+    "month": "November"
+  },
+  {
+    "date": "3",
+    "title": "Conjunction of the Moon and Jupiter",
+    "type": "moon",
+    "month": "November"
+  },
+  {
+    "date": "5",
+    "title": "Southern Taurid meteor shower",
+    "type": "meteor",
+    "month": "November"
+  },
+  {
+    "date": "9",
+    "title": "Moon at First Quarter",
+    "type": "moon",
+    "month": "November"
+  },
+  {
+    "date": "11",
+    "title": "Northern Taurid meteor shower",
+    "type": "meteor",
+    "month": "November"
+  },
+  {
+    "date": "12",
+    "title": "Close approach of the Moon and M45",
+    "type": "moon",
+    "month": "November"
+  },
+  {
+    "date": "17",
+    "title": "Full Moon",
+    "type": "moon",
+    "month": "November"
+  },
+  {
+    "date": "17",
+    "title": "Penumbral lunar eclipse",
+    "type": "moon",
+    "month": "November"
+  },
+  {
+    "date": "18",
+    "title": "Leonid meteor shower",
+    "type": "meteor",
+    "month": "November"
+  },
+  {
+    "date": "23",
+    "title": "Moon at Last Quarter",
+    "type": "moon",
+    "month": "November"
+  },
+  {
+    "date": "28",
+    "title": "Conjunction of the Moon and Venus",
+    "type": "moon",
+    "month": "November"
+  },
+  {
+    "date": "1",
+    "title": "New Moon",
+    "type": "moon",
+    "month": "December"
+  },
+  {
+    "date": "2",
+    "title": "Conjunction of the Moon and Jupiter",
+    "type": "moon",
+    "month": "December"
+  },
+  {
+    "date": "6",
+    "title": "Moon at First Quarter",
+    "type": "moon",
+    "month": "December"
+  },
+  {
+    "date": "9",
+    "title": "Close approach of the Moon and M45",
+    "type": "moon",
+    "month": "December"
+  },
+  {
+    "date": "13",
+    "title": "Full Moon",
+    "type": "moon",
+    "month": "December"
+  },
+  {
+    "date": "13",
+    "title": "Penumbral lunar eclipse",
+    "type": "moon",
+    "month": "December"
+  },
+  {
+    "date": "14",
+    "title": "Geminid meteor shower",
+    "type": "meteor",
+    "month": "December"
+  },
+  {
+    "date": "19",
+    "title": "Moon at Last Quarter",
+    "type": "moon",
+    "month": "December"
+  },
+  {
+    "date": "26",
+    "title": "Conjunction of the Moon and Jupiter",
+    "type": "moon",
+    "month": "December"
+  },
+  {
+    "date": "30",
+    "title": "Conjunction of the Moon and Saturn",
+    "type": "moon",
+    "month": "December"
+  }
+]
+
